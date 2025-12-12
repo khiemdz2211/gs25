@@ -45,7 +45,8 @@ namespace GS25App
 
         private void btnCustomer_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Chức năng Khách hàng đang phát triển.");
+            LoadControl(new UC_Customer());
+            // MessageBox.Show("Chức năng Khách hàng đang phát triển.");
         }
 
         private void btnOrder_Click(object sender, EventArgs e)
@@ -60,18 +61,12 @@ namespace GS25App
 
         private void btnEmployee_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Chức năng Nhân viên đang phát triển.");
+            LoadControl(new UC_Staff());
         }
 
         private void btnReport_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Chức năng Báo cáo đang phát triển.");
         }
-
-        private void btnCustomer_Click_1(object sender, EventArgs e)
-        {
-
-        }
-
     }
 }

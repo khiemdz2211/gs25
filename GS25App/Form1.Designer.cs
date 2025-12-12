@@ -15,6 +15,10 @@
 
         #region Windows Form Designer generated code
 
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
         private void InitializeComponent()
         {
             this.panelMenu = new System.Windows.Forms.Panel();
@@ -116,6 +120,7 @@
             this.btnEmployee.Text = "Nhân viên";
             this.btnEmployee.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnEmployee.UseVisualStyleBackColor = true;
+            this.btnEmployee.Click += new System.EventHandler(this.btnEmployee_Click);
             // 
             // btnReport
             // 
@@ -197,7 +202,7 @@
             this.btnCustomer.Text = "Khách hàng";
             this.btnCustomer.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnCustomer.UseVisualStyleBackColor = true;
-            this.btnCustomer.Click += new System.EventHandler(this.btnCustomer_Click_1);
+            this.btnCustomer.Click += new System.EventHandler(this.btnCustomer_Click);
             // 
             // btnTitle
             // 
@@ -228,7 +233,6 @@
             this.Text = "GS25 Management";
             this.panelMenu.ResumeLayout(false);
             this.ResumeLayout(false);
-
         }
 
         #endregion
