@@ -1,0 +1,16 @@
+C:\Users\phamk\source\repos\GS25App\GS25App\bin\Debug\GS25App.exe.config
+C:\Users\phamk\source\repos\GS25App\GS25App\bin\Debug\GS25App.exe
+C:\Users\phamk\source\repos\GS25App\GS25App\bin\Debug\GS25App.pdb
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.csproj.AssemblyReference.cache
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.Form1.resources
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.Properties.Resources.resources
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.UC_Product.resources
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.csproj.GenerateResource.cache
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.csproj.CoreCompileInputs.cache
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.exe
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.pdb
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.exe.config
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.LoginForm.resources
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.UC_Supplier.resources
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.Supplier.UC_SupplierReceive.resources
+C:\Users\phamk\source\repos\GS25App\GS25App\obj\Debug\GS25App.Supplier.UC_SupplierList.resources
